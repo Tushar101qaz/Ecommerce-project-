@@ -122,33 +122,36 @@ Dashboard Images Power Bi :
 
 # Key Insights & Recommendations :
 
-Olist hosts over 3,100 sellers, facilitating nearly 99,440 orders, showcasing its robust marketplace.
+•	Olist hosts over 3,100 sellers, facilitating nearly 99,440 orders, showcasing its robust marketplace.
 
-Achieving a remarkable 99% order delivery success rate underscores Olist's commitment to customer satisfaction.
 
-The 12.50-day average delivery period, with a range of 10.6 to 21.3 days, directly influences customer satisfaction and review scores.
+•	Achieving a remarkable 99% order delivery success rate underscores Olist's commitment to customer satisfaction.
 
-With an average review score of 4.09 stars, Olist maintains high customer satisfaction levels, crucial for platform reputation.
 
-Product prices range from 1 to 7000, with 64.2% of orders falling within the 1-100 price range, 100-1000 having the order shares 31.1%. catering to diverse customer needs.
+•	The 12.50-day average delivery period, with a range of 10.6 to 21.3 days, directly influences customer satisfaction and review scores.
 
-Bed and bath tables emerge as the highest ordered category, followed by health and beauty and sports, directing marketing efforts.
+•	With an average review score of 4.09 stars, Olist maintains high customer satisfaction levels, crucial for platform reputation.
 
-Health and beauty outperforms other categories in revenue share, informing strategic marketing initiatives.
+•	Product prices range from 1 to 7000, with 64.2% of orders falling within the 1-100 price range, 100-1000 having the order shares 31.1%. catering to diverse customer needs.
 
-The state of SP leads in orders and payments (45.2%), while state RR lags behind (0.043%), influencing market expansion strategies.
+•	Bed and bath tables emerge as the highest ordered category, followed by health and beauty and sports, directing marketing efforts.
 
-Achieving a year-on-year revenue growth of 22.61% for recent 2 years signifies Olist's sustained financial health and market growth.
+•	Health and beauty outperforms other categories in revenue share, informing strategic marketing initiatives.
 
-Credit cards dominate as the primary payment method (75%), followed by Boleto (19.7%), guiding payment processing strategies.
+•	The state of SP leads in orders and payments (45.2%), while state RR lags behind (0.043%), influencing market expansion strategies.
 
-Insights gleaned aid inventory management, marketing, and customer engagement, enhancing Olist's operational efficiency and profitability.
+•	Achieving a year-on-year revenue growth of 22.61% for recent 2 years signifies Olist's sustained financial health and market growth.
 
-Offer discounts, exclusive deals, and reward points to customers who have made multiple purchases.
+•	Credit cards dominate as the primary payment method (75%), followed by Boleto (19.7%), guiding payment processing strategies.
 
-Plan and execute major promotional campaigns leading up to peak periods, offering significant discounts and special deals.
+•	Insights gleaned aid inventory management, marketing, and customer engagement, enhancing Olist's operational efficiency and profitability.
 
-Analyze geolocation data to identify regions with lower customer density and implement targeted marketing and logistic solutions.
+•	Offer discounts, exclusive deals, and reward points to customers who have made multiple purchases.
+
+•	Plan and execute major promotional campaigns leading up to peak periods, offering significant discounts and special deals.
+
+•	Analyze geolocation data to identify regions with lower customer density and implement targeted marketing and logistic solutions.
+
 
 Conclusion : 
 
