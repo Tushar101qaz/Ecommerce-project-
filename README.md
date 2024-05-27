@@ -26,7 +26,7 @@ Data Merging: Merged datasets on common fields to ensure data integrity and cons
 
 ## Snap Of Data Relation 
 
-https://github.com/Tushar101qaz/Ecommerce-project-/issues/1#issue-2318477222
+![Joins](https://github.com/Tushar101qaz/Ecommerce-project-/assets/170803472/337c3fe4-e00d-4486-9972-18ae7878ca47)
 
 ## Visualizations:
 Visualized data to extract insightful information from the extensive dataset using tools such as Power BI, Tableau, and Excel.
